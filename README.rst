@@ -35,6 +35,16 @@ QuantStats: Portfolio analytics for quants
 
 `Changelog » <./CHANGELOG.rst>`__
 
+# QuantStats (Python 3.9+ Fork)
+
+This is a fork of [QuantStats](https://github.com/ranaroussi/quantstats) with fixes for:
+- Python 3.9+ compatibility
+- Modern pandas (1.x+) compatibility
+- [Any other improvements you've made]
+
+Original work by Ran Aroussi (https://github.com/ranaroussi/quantstats).
+
+
 QuantStats is comprised of 3 main modules:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
